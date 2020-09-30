@@ -3,7 +3,7 @@ package wallet
 import (
 	"github.com/google/uuid"
 	"errors"
-	"github.com/Iftikhor99/wallet/pkg/types"
+	"github.com/Iftikhor99/wallet/v1/pkg/types"
 )
 
 type Error string

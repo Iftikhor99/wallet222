@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Iftikhor99/wallet/pkg/wallet"
+	"github.com/Iftikhor99/wallet/v1/pkg/wallet"
 )
 
 
